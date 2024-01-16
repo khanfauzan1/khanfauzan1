@@ -2,7 +2,8 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfauzan1&label=Profile%20views&color=0e75b6&style=flat" alt="khanfauzan1" /> </p>
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khanfauzan1?tab=repositories](https://github.com/khanfauzan1?tab=repositories)
